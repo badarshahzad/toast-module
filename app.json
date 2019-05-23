@@ -1,4 +1,8 @@
 {
   "name": "toastmodule",
-  "displayName": "toastmodule"
+  "displayName": "Auto Responder",
+  "splash": {
+    "image": "./src/assets/images/login-background.png",
+    "resizeMode": "cover"
+  }
 }

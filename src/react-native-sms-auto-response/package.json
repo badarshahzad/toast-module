@@ -1,0 +1,11 @@
+{
+  "name": "react-native-sms-auto-response",
+  "version": "1.0.0",
+  "description": "This module auto response to messages which received from anyone. The message will be predefine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "badarshahzad",
+  "license": "MIT"
+}
